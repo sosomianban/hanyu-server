@@ -20,7 +20,9 @@
     "Alipay": "9",
     "Wechat": "9"
   },
+  "animator": null,
   "hosts": [
-    "https://sosojsq.net"
+    "https://sosojsq.net",
+    "https://sosojsq.cc"
   ]
 }
