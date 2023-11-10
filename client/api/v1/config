@@ -1,6 +1,6 @@
 {
   "key": "v2b_soso",
-  "host_source": "https://sosojsq.cc",
+  "host_source": "https://sosojsq.net",
   "target": 1,
   "email": "",
   "tg": "",
@@ -21,6 +21,6 @@
     "Wechat": "9"
   },
   "hosts": [
-    "https://sosojsq.cc"
+    "https://sosojsq.net"
   ]
 }
