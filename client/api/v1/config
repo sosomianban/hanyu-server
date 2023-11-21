@@ -1,18 +1,18 @@
 {
   "key": "v2b_soso",
-  "host_source": "https://sosojsq.net",
+  "host_source": "https://ss.sosoyun.xyz",
   "target": 1,
   "email": "",
   "tg": "",
   "crisp": "79f13f17-cedd-4ba0-aa5e-0c5443c2dedf",
-  "loginless": 0,
+  "loginless": 1,
   "loginless_link": "",
-  "code_login": 0,
-  "code_register": 0,
+  "code_login": 1,
+  "code_register": 1,
   "captcha_login": 1,
   "captcha_register": 1,
   "captcha_checkin": 1,
-  "notice": 3,
+  "notice": 2,
   "checkin": 1,
   "line_flag_regex": "",
   "line_exclude_loc": 1,
@@ -22,7 +22,6 @@
   },
   "animator": null,
   "hosts": [
-    "https://sosojsq.net",
-    "https://sosojsq.cc"
+    "https://ss.sosoyun.xyz"
   ]
 }
